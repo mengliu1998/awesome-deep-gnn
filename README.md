@@ -1,5 +1,5 @@
 # awesome-deep-gnn
-Papers about developing deep Graph Neural Networks (GNNs)
+Papers about developing deep Graph Neural Networks (GNNs). Please feel free to submit a pull request if you want to add good papers.
 
 
 ## Literature [sorted in reverse chronological order]
