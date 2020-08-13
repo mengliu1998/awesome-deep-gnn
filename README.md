@@ -1,5 +1,5 @@
 # awesome-deep-gnn
-Papers about developing deep Graph Neural Networks (GNNs). Over-smoothing problem is also included here. Please feel free to submit a pull request if you want to add good papers.
+Papers about developing deep Graph Neural Networks (GNNs). Investigation about over-smoothing problem in GNNs is also included here. Please feel free to submit a pull request if you want to add good papers.
 
 
 ## Literature [sorted in reverse chronological order]
