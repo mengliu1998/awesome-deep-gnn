@@ -2,7 +2,7 @@
 Papers about developing deep Graph Neural Networks (GNNs). Investigation about over-smoothing problem in GNNs is also included here. Please feel free to submit a pull request if you want to add good papers.
 
 
-## Literature [sorted in reverse chronological order]
+<!-- ## Literature [sorted in reverse chronological order]-->
 2020
 ----
 * [KDD 2020] **Towards Deeper Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2007.09296)[[Code]](https://github.com/mengliu1998/DeeperGNN)
