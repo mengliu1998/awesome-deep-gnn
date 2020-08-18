@@ -22,6 +22,7 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigation abo
 
 Before 2020
 ----
+* [NeurIPS 2019] **Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks** [[Paper]](https://arxiv.org/abs/1906.02174)
 * [ICLR 2019] **Predict then Propagate: Graph Neural Networks meet Personalized PageRank** [[Paper]](https://arxiv.org/abs/1810.05997)[[Code]](https://github.com/klicperajo/ppnp)
 * [ICCV 2019] **DeepGCNs: Can GCNs Go as Deep as CNNs?** [[Paper]](https://arxiv.org/abs/1904.03751)[[Code(Pytorch)]](https://github.com/lightaime/deep_gcns_torch)[[Code(TensorFlow)]](https://github.com/lightaime/deep_gcns)
 * [ICML 2018] **Representation Learning on Graphs with Jumping Knowledge Networks** [[Paper]](https://arxiv.org/abs/1806.03536)
