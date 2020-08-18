@@ -1,5 +1,5 @@
 # awesome-deep-gnn
-Papers about developing deep Graph Neural Networks (GNNs). Investigation about over-smoothing problem in GNNs is also included here. Please feel free to submit a pull request if you want to add good papers.
+Papers about **developing deep Graph Neural Networks (GNNs)**. Investigation about **over-smoothing** and **over-squashing** problem in GNNs is also included here. Please feel free to submit a pull request if you want to add good papers.
 
 
 <!-- ## Literature [sorted in reverse chronological order]-->
@@ -7,6 +7,7 @@ Papers about developing deep Graph Neural Networks (GNNs). Investigation about o
 ----
 * [KDD 2020] **Towards Deeper Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2007.09296)[[Code]](https://github.com/mengliu1998/DeeperGNN)
 * [ICML 2020 Workshop GRL+] **A Note on Over-Smoothing for Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2006.13318)
+* [arXiv 2020] **On the Bottleneck of Graph Neural Networks and its Practical Implications** [[Paper]](https://arxiv.org/abs/2006.05205)
 * [arXiv 2020] **Towards Deeper Graph Neural Networks with Differentiable Group Normalization** [[Paper]](https://arxiv.org/abs/2006.06972)
 * [arXiv 2020] **Effective Training Strategies for Deep Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2006.07107)
 * [arXiv 2020] **Revisiting Over-smoothing in Deep GCNs** [[paper]](https://arxiv.org/abs/2003.13663)
