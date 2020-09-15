@@ -25,6 +25,7 @@ Before 2020
 * [NeurIPS 2019] **Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks** [[Paper]](https://arxiv.org/abs/1906.02174)
 * [ICLR 2019] **Predict then Propagate: Graph Neural Networks meet Personalized PageRank** [[Paper]](https://arxiv.org/abs/1810.05997)[[Code]](https://github.com/klicperajo/ppnp)
 * [ICCV 2019] **DeepGCNs: Can GCNs Go as Deep as CNNs?** [[Paper]](https://arxiv.org/abs/1904.03751)[[Code(Pytorch)]](https://github.com/lightaime/deep_gcns_torch)[[Code(TensorFlow)]](https://github.com/lightaime/deep_gcns)
+* [arXiv 2019] **Revisiting Graph Neural Networks: All We Have is Low-Pass Filters** [[Paper]](https://arxiv.org/abs/1905.09550)
 * [ICML 2018] **Representation Learning on Graphs with Jumping Knowledge Networks** [[Paper]](https://arxiv.org/abs/1806.03536)
 * [AAAI 2018] **Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning** [[Paper]](https://arxiv.org/abs/1801.07606)
 
