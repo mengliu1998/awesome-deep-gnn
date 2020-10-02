@@ -10,7 +10,7 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigation abo
 * [ICML 2020 Workshop GRL+] **A Note on Over-Smoothing for Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2006.13318)
 * [arXiv 2020] **DeeperGCN: All You Need to Train Deeper GCNs** [[Paper]](https://arxiv.org/abs/2006.07739)[[Code]](https://github.com/lightaime/deep_gcns_torch)
 * [arXiv 2020] **On the Bottleneck of Graph Neural Networks and its Practical Implications** [[Paper]](https://arxiv.org/abs/2006.05205)
-* [arXiv 2020] **Towards Deeper Graph Neural Networks with Differentiable Group Normalization** [[Paper]](https://arxiv.org/abs/2006.06972)
+* [NeurIPS 2020] **Towards Deeper Graph Neural Networks with Differentiable Group Normalization** [[Paper]](https://arxiv.org/abs/2006.06972)
 * [arXiv 2020] **Effective Training Strategies for Deep Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2006.07107)[[Code]](https://github.com/miafei/NodeNorm)
 * [arXiv 2020] **Revisiting Over-smoothing in Deep GCNs** [[paper]](https://arxiv.org/abs/2003.13663)
 * [ICML 2020] **Bayesian Graph Neural Networks with Adaptive Connection Sampling** [[Paper]](https://arxiv.org/abs/2006.04064)
