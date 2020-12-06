@@ -3,17 +3,20 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigation abo
 
 **Please feel free to submit a pull request if you want to add good papers.**
 
-
 <!-- ## Literature [sorted in reverse chronological order]-->
+
 2020
 ----
 
+* [arXiv 2020] **Deep Graph Neural Networks with Shallow Subgraph Samplers** [[Paper]](https://arxiv.org/abs/2012.01380)
+* [arXiv 2020] **Revisiting Graph Convolutional Network on Semi-Supervised Node Classification from an Optimization Perspective** [[Paper]](https://arxiv.org/abs/2009.11469)
 * [arXiv 2020] **Tackling Over-Smoothing for General Graph Convolutional Networks** [[Paper]](https://arxiv.org/abs/2008.09864)
 * [arXiv 2020] **DeeperGCN: All You Need to Train Deeper GCNs** [[Paper]](https://arxiv.org/abs/2006.07739)[[Code]](https://github.com/lightaime/deep_gcns_torch)
 * [arXiv 2020] **On the Bottleneck of Graph Neural Networks and its Practical Implications** [[Paper]](https://arxiv.org/abs/2006.05205)
 * [arXiv 2020] **Effective Training Strategies for Deep Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2006.07107)[[Code]](https://github.com/miafei/NodeNorm)
 * [arXiv 2020] **Revisiting Over-smoothing in Deep GCNs** [[paper]](https://arxiv.org/abs/2003.13663)
 <br/><br/>
+* [NeurIPS 2020] **Graph Random Neural Networks for Semi-Supervised Learning on Graphs** [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/fb4c835feb0a65cc39739320d7a51c02-Abstract.html)[[Code]](https://github.com/THUDM/GRAND)
 * [NeurIPS 2020] **Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks** [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/a6b964c0bb675116a15ef1325b01ff45-Abstract.html)[[Code]](https://github.com/dms-net/scatteringGCN)
 * [NeurIPS 2020] **Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks** [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/dab49080d80c724aad5ebf158d63df41-Abstract.html)[[Code]](https://github.com/delta2323/GB-GNN)
 * [NeurIPS 2020] **Towards Deeper Graph Neural Networks with Differentiable Group Normalization** [[Paper]](https://arxiv.org/abs/2006.06972)
