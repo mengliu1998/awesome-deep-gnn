@@ -5,6 +5,13 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigation abo
 
 <!-- ## Literature [sorted in reverse chronological order]-->
 
+2021
+----
+
+* [ICLR 2021] **On the Bottleneck of Graph Neural Networks and its Practical Implications** [[Paper]](https://openreview.net/forum?id=i80OPhOCVH2)[[Code]](https://github.com/tech-srl/bottleneck/)
+* [ICLR 2021] **On the Bottleneck of Graph Neural Networks and its Practical Implications** [[Paper]](https://openreview.net/forum?id=n6jl7fLxrP)[[Code]](https://github.com/jianhao2016/GPRGNN)
+
+
 2020
 ----
 
@@ -12,7 +19,6 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigation abo
 * [arXiv 2020] **Revisiting Graph Convolutional Network on Semi-Supervised Node Classification from an Optimization Perspective** [[Paper]](https://arxiv.org/abs/2009.11469)
 * [arXiv 2020] **Tackling Over-Smoothing for General Graph Convolutional Networks** [[Paper]](https://arxiv.org/abs/2008.09864)
 * [arXiv 2020] **DeeperGCN: All You Need to Train Deeper GCNs** [[Paper]](https://arxiv.org/abs/2006.07739)[[Code]](https://github.com/lightaime/deep_gcns_torch)
-* [arXiv 2020] **On the Bottleneck of Graph Neural Networks and its Practical Implications** [[Paper]](https://arxiv.org/abs/2006.05205)
 * [arXiv 2020] **Effective Training Strategies for Deep Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2006.07107)[[Code]](https://github.com/miafei/NodeNorm)
 * [arXiv 2020] **Revisiting Over-smoothing in Deep GCNs** [[paper]](https://arxiv.org/abs/2003.13663)
 <br/><br/>
