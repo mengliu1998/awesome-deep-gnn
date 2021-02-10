@@ -10,6 +10,7 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigation abo
 
 * [ICLR 2021] **On the Bottleneck of Graph Neural Networks and its Practical Implications** [[Paper]](https://openreview.net/forum?id=i80OPhOCVH2)[[Code]](https://github.com/tech-srl/bottleneck/)
 * [ICLR 2021] **Adaptive Universal Generalized PageRank Graph Neural Network** [[Paper]](https://openreview.net/forum?id=n6jl7fLxrP)[[Code]](https://github.com/jianhao2016/GPRGNN)
+* [ICLR 2021] **Simple Spectral Graph Convolution** [[Paper]](https://openreview.net/forum?id=CYO5T-YjWZV)
 
 
 2020
