@@ -1,5 +1,5 @@
 # awesome-deep-gnn
-Papers about **developing deep Graph Neural Networks (GNNs)**. Investigation about **over-smoothing** and **over-squashing** problem in GNNs is also included here.
+Papers about **developing deep Graph Neural Networks (GNNs)**. Investigations about **over-smoothing** and **over-squashing** problem in GNNs are also included here.
 
 **Please feel free to submit a pull request if you want to add good papers.**
 
