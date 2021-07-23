@@ -7,9 +7,12 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigations ab
 
 2021
 ----
+* [arXiv 2021] **Very Deep Graph Neural Networks Via Noise Regularisation** [[Paper]](https://arxiv.org/abs/2106.07971)
 * [arXiv 2021] **Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks** [[Paper]](https://arxiv.org/abs/2102.06462v2)
-* [arXiv 2021] **Graph Neural Networks Inspired by Classical Iterative Algorithms** [[Paper]](https://arxiv.org/abs/2103.06064)
 <br/><br/>
+* [ICML 2021] **GRAND: Graph Neural Diffusion** [[Paper]](https://arxiv.org/abs/2106.10934)[[Code]](https://github.com/twitter-research/graph-neural-pde)
+* [ICML 2021] **Graph Neural Networks Inspired by Classical Iterative Algorithms** [[Paper]](https://arxiv.org/abs/2103.06064)[[Code]](https://github.com/FFTYYY/TWIRLS)
+* [ICML 2021] **Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth** [[Paper]](https://arxiv.org/abs/2105.04550)
 * [ICML 2021] **Training Graph Neural Networks with 1000 Layers** [[Paper]](https://arxiv.org/abs/2106.07476)[[Code]](https://github.com/lightaime/deep_gcns_torch)
 * [ICML 2021] **Directional Graph Networks** [[Paper]](https://arxiv.org/abs/2010.02863)[[Code]](https://github.com/Saro00/DGN)
 * [ICLR 2021] **On the Bottleneck of Graph Neural Networks and its Practical Implications** [[Paper]](https://openreview.net/forum?id=i80OPhOCVH2)[[Code]](https://github.com/tech-srl/bottleneck/)
