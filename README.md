@@ -7,6 +7,7 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigations ab
 
 2021
 ----
+* [arXiv 2021] **Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study**  [[Paper]](https://arxiv.org/abs/2108.10521)[[Code]](https://github.com/VITA-Group/Deep_GCN_Benchmarking)
 * [arXiv 2021] **Very Deep Graph Neural Networks Via Noise Regularisation** [[Paper]](https://arxiv.org/abs/2106.07971)
 * [arXiv 2021] **Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks** [[Paper]](https://arxiv.org/abs/2102.06462v2)
 <br/><br/>
