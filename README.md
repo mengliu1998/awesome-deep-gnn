@@ -1,4 +1,6 @@
 # awesome-deep-gnn
+![contributing-image](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+
 Papers about **developing deep Graph Neural Networks (GNNs)**. Investigations about **over-smoothing** and **over-squashing** problem in GNNs are also included here.
 
 **Please feel free to submit a pull request if you want to add good papers.**
