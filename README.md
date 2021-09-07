@@ -13,6 +13,7 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigations ab
 * [arXiv 2021] **Very Deep Graph Neural Networks Via Noise Regularisation** [[Paper]](https://arxiv.org/abs/2106.07971)
 * [arXiv 2021] **Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks** [[Paper]](https://arxiv.org/abs/2102.06462v2)
 <br/><br/>
+* [ICML 2021] **Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2103.04886)
 * [ICML 2021] **Improving Breadth-Wise Backpropagation in Graph Neural Networks Helps Learning Long-Range Dependencies** [[Paper]](http://proceedings.mlr.press/v139/lukovnikov21a/lukovnikov21a.pdf)
 * [ICML 2021] **GRAND: Graph Neural Diffusion** [[Paper]](https://arxiv.org/abs/2106.10934)[[Code]](https://github.com/twitter-research/graph-neural-pde)
 * [ICML 2021] **Graph Neural Networks Inspired by Classical Iterative Algorithms** [[Paper]](https://arxiv.org/abs/2103.06064)[[Code]](https://github.com/FFTYYY/TWIRLS)
