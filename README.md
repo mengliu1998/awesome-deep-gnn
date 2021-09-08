@@ -50,6 +50,7 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigations ab
 * [ICLR 2020] **PairNorm: Tackling Oversmoothing in GNNs** [[Paper]](https://openreview.net/forum?id=rkecl1rtwB)[[Code]](https://github.com/LingxiaoShawn/PairNorm)
 * [ICLR 2020] **Measuring and Improving the Use of Graph Information in Graph Neural Networks** [[Paper]](https://openreview.net/forum?id=rkeIIkHKvS)[[Code]](https://github.com/yifan-h/CS-GNN)
 * [AAAI 2020] **Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View** [[Paper]](https://arxiv.org/abs/1909.03211)
+* [CVPR 2020] **Geometrically Principled Connections in Graph Neural Networks** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Gong_Geometrically_Principled_Connections_in_Graph_Neural_Networks_CVPR_2020_paper.html)
 
 Before 2020
 ----
