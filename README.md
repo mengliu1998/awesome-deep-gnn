@@ -19,6 +19,8 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigations ab
 * [ICLR 2022] **Simple GNN Regularisation for 3D Molecular Property Prediction & Beyond** [[Paper]](https://arxiv.org/abs/2106.07971)
 * [ICLR 2022] **Revisiting Over-smoothing in BERT from the Perspective of Graph** [[Paper]](https://openreview.net/forum?id=dUV91uaXm3)
 * [TPAMI] **Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study**  [[Paper]](https://arxiv.org/abs/2108.10521)[[Code]](https://github.com/VITA-Group/Deep_GCN_Benchmarking)
+
+
 2021
 ----
 
