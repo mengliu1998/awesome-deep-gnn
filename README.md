@@ -7,12 +7,21 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigations ab
 
 <!-- ## Literature [sorted in reverse chronological order]-->
 
+2022
+----
+
+* [NeurIPS 2022] **Not too little, not too much: a theoretical analysis of graph (over)smoothing** [[Paper]](https://arxiv.org/abs/2205.12156)[[Code]](https://github.com/twitter-research/neural-sheaf-diffusion)
+* [NeurIPS 2022] **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs** [[Paper]](https://arxiv.org/abs/2202.04579)[[Code]](https://github.com/twitter-research/neural-sheaf-diffusion)
+* [ICML 2022] **Graph-Coupled Oscillator Networks** [[Paper]](https://arxiv.org/abs/2202.02296)[[Code]](https://github.com/tk-rusch/graphcon)
+* [ICDM 2022] **Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks** [[Paper]](https://arxiv.org/abs/2102.06462)[[Code]](https://github.com/yujun-yan/heterophily_and_oversmoothing)
+* [ICLR 2022] **Understanding over-squashing and bottlenecks on graphs via curvature** [[Paper]](https://openreview.net/forum?id=7UmjRGzp-A)[[Code]](https://github.com/jctops/understanding-oversquashing)
+* [ICLR 2022] **Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective** [[Paper]](https://openreview.net/forum?id=tT9t_ZctZRL)
+* [ICLR 2022] **Simple GNN Regularisation for 3D Molecular Property Prediction & Beyond** [[Paper]](https://arxiv.org/abs/2106.07971)
+* [ICLR 2022] **Revisiting Over-smoothing in BERT from the Perspective of Graph** [[Paper]](https://openreview.net/forum?id=dUV91uaXm3)
+* [TPAMI] **Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study**  [[Paper]](https://arxiv.org/abs/2108.10521)[[Code]](https://github.com/VITA-Group/Deep_GCN_Benchmarking)
 2021
 ----
-* [arXiv 2021] **Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study**  [[Paper]](https://arxiv.org/abs/2108.10521)[[Code]](https://github.com/VITA-Group/Deep_GCN_Benchmarking)
-* [arXiv 2021] **Very Deep Graph Neural Networks Via Noise Regularisation** [[Paper]](https://arxiv.org/abs/2106.07971)
-* [arXiv 2021] **Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks** [[Paper]](https://arxiv.org/abs/2102.06462v2)
-<br/><br/>
+
 * [ICML 2021] **Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2103.04886)
 * [ICML 2021] **Improving Breadth-Wise Backpropagation in Graph Neural Networks Helps Learning Long-Range Dependencies** [[Paper]](http://proceedings.mlr.press/v139/lukovnikov21a/lukovnikov21a.pdf)
 * [ICML 2021] **GRAND: Graph Neural Diffusion** [[Paper]](https://arxiv.org/abs/2106.10934)[[Code]](https://github.com/twitter-research/graph-neural-pde)
@@ -24,6 +33,7 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigations ab
 * [ICLR 2021] **On the Bottleneck of Graph Neural Networks and its Practical Implications** [[Paper]](https://openreview.net/forum?id=i80OPhOCVH2)[[Code]](https://github.com/tech-srl/bottleneck/)
 * [ICLR 2021] **Adaptive Universal Generalized PageRank Graph Neural Network** [[Paper]](https://openreview.net/forum?id=n6jl7fLxrP)[[Code]](https://github.com/jianhao2016/GPRGNN)
 * [ICLR 2021] **Simple Spectral Graph Convolution** [[Paper]](https://openreview.net/forum?id=CYO5T-YjWZV)
+* [CIKM 2021] **Understanding and Resolving Performance Degradation in Graph Convolutional Networks** [[Paper]](https://arxiv.org/abs/2006.07107)[[Code]](https://github.com/miafei/NodeNorm)
 
 
 2020
@@ -33,7 +43,6 @@ Papers about **developing deep Graph Neural Networks (GNNs)**. Investigations ab
 * [arXiv 2020] **Revisiting Graph Convolutional Network on Semi-Supervised Node Classification from an Optimization Perspective** [[Paper]](https://arxiv.org/abs/2009.11469)
 * [arXiv 2020] **Tackling Over-Smoothing for General Graph Convolutional Networks** [[Paper]](https://arxiv.org/abs/2008.09864)
 * [arXiv 2020] **DeeperGCN: All You Need to Train Deeper GCNs** [[Paper]](https://arxiv.org/abs/2006.07739)[[Code]](https://github.com/lightaime/deep_gcns_torch)
-* [arXiv 2020] **Effective Training Strategies for Deep Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2006.07107)[[Code]](https://github.com/miafei/NodeNorm)
 * [arXiv 2020] **Revisiting Over-smoothing in Deep GCNs** [[paper]](https://arxiv.org/abs/2003.13663)
 <br/><br/>
 * [NeurIPS 2020] **Graph Random Neural Networks for Semi-Supervised Learning on Graphs** [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/fb4c835feb0a65cc39739320d7a51c02-Abstract.html)[[Code]](https://github.com/THUDM/GRAND)
