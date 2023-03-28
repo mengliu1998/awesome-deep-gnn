@@ -29,11 +29,13 @@ Selected by [CogDL](https://github.com/THUDM/cogdl/blob/master/gnn_papers.md#ove
 * [NeurIPS 2022] **Not too little, not too much: a theoretical analysis of graph (over)smoothing** [[Paper]](https://arxiv.org/abs/2205.12156)[[Code]](https://github.com/twitter-research/neural-sheaf-diffusion)
 * [NeurIPS 2022] **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs** [[Paper]](https://arxiv.org/abs/2202.04579)[[Code]](https://github.com/twitter-research/neural-sheaf-diffusion)
 * [ICML 2022] **Graph-Coupled Oscillator Networks** [[Paper]](https://arxiv.org/abs/2202.02296)[[Code]](https://github.com/tk-rusch/graphcon)
+* [KDD 2022] **Model Degradation Hinders Deep Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2206.04361)
 * [ICDM 2022] **Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks** [[Paper]](https://arxiv.org/abs/2102.06462)[[Code]](https://github.com/yujun-yan/heterophily_and_oversmoothing)
 * [ICLR 2022] **Understanding over-squashing and bottlenecks on graphs via curvature** [[Paper]](https://openreview.net/forum?id=7UmjRGzp-A)[[Code]](https://github.com/jctops/understanding-oversquashing)
 * [ICLR 2022] **Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective** [[Paper]](https://openreview.net/forum?id=tT9t_ZctZRL)
 * [ICLR 2022] **Simple GNN Regularisation for 3D Molecular Property Prediction & Beyond** [[Paper]](https://arxiv.org/abs/2106.07971)
 * [ICLR 2022] **Revisiting Over-smoothing in BERT from the Perspective of Graph** [[Paper]](https://openreview.net/forum?id=dUV91uaXm3)
+* [AAAI 2022] **Orthogonal Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2109.11338)
 * [TPAMI] **Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study**  [[Paper]](https://arxiv.org/abs/2108.10521)[[Code]](https://github.com/VITA-Group/Deep_GCN_Benchmarking)
 
 
